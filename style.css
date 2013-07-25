@@ -270,3 +270,7 @@ input[type="color"],
    background-color: #3a87ad;
 }
 
+.thumbnail {
+  background-color: Blue;
+  padding: 11px;
+}
