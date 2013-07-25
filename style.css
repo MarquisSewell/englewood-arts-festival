@@ -5,7 +5,7 @@ body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 13px;
   color: #ffff00;
-  background-image:url('https://f.cloud.github.com/assets/5033773/857837/5a2bb19e-f55a-11e2-95ca-7a658fdfbea7.jpg');
+  background-image:url('nn.jpg');
   background-color: Purple;
  
 }
@@ -270,11 +270,3 @@ input[type="color"],
    background-color: #3a87ad;
 }
 
-
-.thumbnail {
-  background-color: Blue;
-	padding: 11px;
-}
-
-
-	
