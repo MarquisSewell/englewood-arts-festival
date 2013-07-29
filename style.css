@@ -234,6 +234,7 @@ input[type="color"],
   padding: 10px 10px 11px;
   font-size: 14px;
   color: #666666;
+  font: white;
 }
 
 .navbar .nav > .active > a,
