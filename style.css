@@ -4,7 +4,7 @@ body {
   margin: 0;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 13px;
-  color: White;
+  color: Pink;
   background-image:url('https://f.cloud.github.com/assets/5033773/857837/5a2bb19e-f55a-11e2-95ca-7a658fdfbea7.jpg');
   background-color: Purple;
  
@@ -275,6 +275,3 @@ input[type="color"],
   padding: 11px;
 }
 
-.pictures {
-  background-color: Pink;
-}
