@@ -274,3 +274,7 @@ input[type="color"],
   background-color: Blue;
   padding: 11px;
 }
+
+.pictures {
+  background-color: Yellow;
+}
